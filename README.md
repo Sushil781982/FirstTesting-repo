@@ -1,2 +1,2 @@
 # FirstTesting-repo
-For learning purpose 
+This is my first project.
